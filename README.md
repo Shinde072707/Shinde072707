@@ -291,49 +291,11 @@ width="30"/>
 📫 **Email:**  
 shubhamshinde6047@gmail.com
 
----
+# 📅 Contribution Activity Graph
 
-# 🎯 My Learning Roadmap
+<p align="center">
 
-```text
-                    DATA SCIENCE
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       Python           SQL       Data Visualization
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                 Data Analysis
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-             EDA              Feature Engineering
-              │                     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-                 MACHINE LEARNING
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-      Statistics     Scikit-learn    Evaluation
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                   ML ENGINEERING
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       FastAPI         Docker         MLOps
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                 DATA ENGINEERING
-                         │
-                  ┌──────┴──────┐
-                  │             │
-               PySpark      Databricks
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinde072707&hide_border=true&radius=10"
+alt="Shubham's GitHub Contribution Activity Graph"/>
+
+</p>
