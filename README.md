@@ -295,7 +295,11 @@ shubhamshinde6047@gmail.com
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinde072707&hide_border=true&radius=10"
-alt="Shubham's GitHub Contribution Activity Graph"/>
+<a href="https://github.com/Shinde072707">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinde072707&theme=github-compact&hide_border=true&radius=10"
+alt="Shubham Shinde GitHub Contribution Activity Graph"/>
+
+</a>
 
 </p>
